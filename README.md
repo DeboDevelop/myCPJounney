@@ -17,3 +17,5 @@ Simple Hashing for Frequency Counting : [Code](./Practice/BasicProblem/hashing.c
 1D Prefix Sum : [Code](./Practice/BasicProblem/1DPrefixSum.cpp)
 
 2D Prefix Sum : [Code](./Practice/BasicProblem/2DPrefixSum.cpp)
+
+Cumulative Sum Query: [Problem](https://www.spoj.com/problems/CSUMQ/) | [Code](./Practice/BasicProblem/CSUMQ.cpp)
