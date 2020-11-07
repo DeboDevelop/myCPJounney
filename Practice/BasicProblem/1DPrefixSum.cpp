@@ -22,9 +22,18 @@ void prefix_sum(int arr[], int size){
 }
 
 int main() {
-    int arr[] = { 10, 4, 16, 20 }; 
-    
-    int size = sizeof(arr) / sizeof(arr[0]); 
+    int i=0, size;
+
+    cout << "Enter the Size of the array: " << "\n";
+    cin >> size;
+
+    int arr[size];
+
+    for (i = 0; i < size; ++i)
+    {
+        cout<<"Enter the element ["<<i<<"] of the array: "<<"\n";
+        cin>>arr[i];
+    }
 
     prefix_sum(arr, size);
 

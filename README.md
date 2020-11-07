@@ -10,6 +10,10 @@ Circular Array : [Code](./Practice/BasicProblem/circular_array.cpp)
 
 Simple Hashing for Frequency Counting : [Code](./Practice/BasicProblem/hashing.cpp)
 
+---
+
+**Prefix Sum**
+
 1D Prefix Sum : [Code](./Practice/BasicProblem/1DPrefixSum.cpp)
 
 2D Prefix Sum : [Code](./Practice/BasicProblem/2DPrefixSum.cpp)
