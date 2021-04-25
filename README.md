@@ -16,7 +16,7 @@ Manna's First Name: [Problem](https://www.hackerearth.com/practice/algorithms/se
 
 Bear and Segment 01: [Problem](https://www.codechef.com/problems/SEGM01) | [Code](./Practice/BasicProblem/LinearSearch/SEGM01.cpp)
 
----
+Rest in peace - 21-1!: [Problem](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/rest-in-peace-21-1/) | [Code](./Practice/BasicProblem/LinearSearch/Rest_In_Peace.cpp)
 
 Circular Array : [Code](./Practice/BasicProblem/CircularArray/circular_array.cpp)
 
