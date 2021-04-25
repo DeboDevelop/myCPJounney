@@ -4,7 +4,13 @@ The Collection of all the algorithms, practice problems and contest problems I s
 
 ## Basic Problems
 
+**Linear Search**
+
 Linear Search : [Code](./Practice/BasicProblem/LinearSearch/linear_search.cpp)
+
+Simple Search : [Problem](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/simple-search-4/) | [Code](./Practice/BasicProblem/LinearSearch/Simple_Search.cpp)
+
+---
 
 Circular Array : [Code](./Practice/BasicProblem/CircularArray/circular_array.cpp)
 
