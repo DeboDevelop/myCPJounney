@@ -12,6 +12,8 @@ Simple Search : [Problem](https://www.hackerearth.com/practice/algorithms/search
 
 Maximum Sum: [Problem](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/maximum-sum-4-f8d12458/) | [Code](./Practice/BasicProblem/LinearSearch/Maximum_Sum.cpp)
 
+Manna's First Name: [Problem](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/mannas-first-name-4/) | [Code](./Practice/BasicProblem/LinearSearch/Manna_First_Name.c)
+
 ---
 
 Circular Array : [Code](./Practice/BasicProblem/CircularArray/circular_array.cpp)
