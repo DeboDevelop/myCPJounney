@@ -14,6 +14,8 @@ Maximum Sum: [Problem](https://www.hackerearth.com/practice/algorithms/searching
 
 Manna's First Name: [Problem](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/mannas-first-name-4/) | [Code](./Practice/BasicProblem/LinearSearch/Manna_First_Name.c)
 
+Bear and Segment 01: [Problem](https://www.codechef.com/problems/SEGM01) | [Code](./Practice/BasicProblem/LinearSearch/SEGM01.cpp)
+
 ---
 
 Circular Array : [Code](./Practice/BasicProblem/CircularArray/circular_array.cpp)
